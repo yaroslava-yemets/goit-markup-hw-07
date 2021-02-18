@@ -8,8 +8,10 @@
 
 // COMPONENTS
 @import "./components/section-title";
+@import "./components/buttons";
 
 // LAYOUT
+@import "./layout/network-list";
 
 /* HEADER */
 
@@ -18,20 +20,12 @@
 @import "./layout/logo";
 @import "./layout/header-contacts";
 
-@import "./layout/hero";
-@import "./layout/features";
-@import "./layout/what-we-do";
-@import "./layout/our-team";
-@import "./layout/network-list";
-@import "./layout/constant-clients";
+@import "./layout/projects";
+@import "./layout/project-examples";
+
+
 
 /* FOOTER */
-
 @import "./layout/footer";
 @import "./layout/address";
-
-/* MODAL WINDOW */ 
-@import "./layout/backdrop";
-@import "./layout/modal";
-@import "./layout/modal-form";
 
